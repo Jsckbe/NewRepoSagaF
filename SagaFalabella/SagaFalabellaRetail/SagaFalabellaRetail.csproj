@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="RegistroTrabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroTrabajador.Designer.cs">
+      <DependentUpon>RegistroTrabajador.cs</DependentUpon>
+    </Compile>
     <Compile Include="SagaFalabellaInicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="RegistroTrabajador.resx">
+      <DependentUpon>RegistroTrabajador.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SagaFalabellaInicio.resx">
       <DependentUpon>SagaFalabellaInicio.cs</DependentUpon>
     </EmbeddedResource>
@@ -74,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -87,6 +97,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoIcono.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
