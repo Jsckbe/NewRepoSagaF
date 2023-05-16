@@ -21,5 +21,12 @@ namespace SagaFalabellaRetail
         {
 
         }
+
+        private void btnRegistro_Click(object sender, EventArgs e)
+        {
+            //instancia del nuevo formulario
+            FrmRegistros formRegistros= new FrmRegistros();
+            formRegistros.Show();
+        }
     }
 }

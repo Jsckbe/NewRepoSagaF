@@ -23,3 +23,4 @@ D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\TF\Grupal-TF\SagaFa
 D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\TF\Grupal-TF\SagaFalabella\SagaFalabellaRetail\obj\Debug\SagaFalabellaRetail.exe
 D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\TF\Grupal-TF\SagaFalabella\SagaFalabellaRetail\obj\Debug\SagaFalabellaRetail.pdb
 D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\TF\Grupal-TF\SagaFalabella\SagaFalabellaRetail\obj\Debug\SagaFalabellaRetail.RegistroTrabajador.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\TF\Grupal-TF\SagaFalabella\SagaFalabellaRetail\obj\Debug\SagaFalabellaRetail.FrmRegistros.resources
